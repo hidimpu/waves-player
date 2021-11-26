@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(51, 45, 45);
+}
+
+body {
+  font-family: "Merienda", cursive;
+}
+
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+.App {
+  transition: all 0.5s ease-in-out;
+}
+
+.library-active {
+  margin-left: 15%;
+}
+
+@import "./player";
+@import "./song";
+
+@import "./library";
+@import "./nav";
