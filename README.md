@@ -1,6 +1,6 @@
 ## Waves-Player
 
-###### Live Version
+###### <a href="https://waves-dimpu.netlify.app/"> Live Version </a>
 
 #### Chill Pop Player Made with React JS, SASS
 
