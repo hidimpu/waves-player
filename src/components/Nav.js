@@ -6,6 +6,9 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
   return (
     <nav>
       <h1> Waves </h1>
+      <p>
+        Made with 💖 by <a href="https://github.com/hidimpu"> Parth </a>{" "}
+      </p>
 
       <button onClick={() => setLibraryStatus(!libraryStatus)}>
         Library
